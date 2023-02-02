@@ -8,7 +8,7 @@ This repo holds all the stuff related to c-base, the language of a space station
 
 # Content
 
-## basis c-lang script
+## easy-script/c-lang.pl
 
 a simple perl script, converts any text given to it, to c-lang.
  All you need is perl. Create a file, execute the script, tell the script the filename and location and you see the c-lang version on console.
