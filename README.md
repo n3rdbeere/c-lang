@@ -4,7 +4,7 @@ fu:r mehr c-lang bei der cyberc_reiberei
 
 # Purpose
 
-This repo holds all the stuff related to c-base, the language of a space station.
+This repo holds all the stuff related to c-lang, the language of a space station.
 
 # Content
 
